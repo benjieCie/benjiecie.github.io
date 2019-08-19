@@ -1,0 +1,26 @@
+/*selector{
+	propert: value;
+}*/
+
+body{
+	background-image: url(images/background.jpg);
+	background-size: cover;
+}
+
+h1{
+	color: #AA4139;
+	text-align: center;
+	border: solid 5px rgba (255,176,170,0.5);
+}
+
+p{
+	color: black;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+.pargraphText{
+	color: #AA4139;
+}
