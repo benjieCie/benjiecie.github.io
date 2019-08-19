@@ -2,11 +2,6 @@
 	propert: value;
 }*/
 
-body{
-	background-image: url(images/background.jpg);
-	background-size: cover;
-}
-
 h1{
 	color: #AA4139;
 	text-align: center;
